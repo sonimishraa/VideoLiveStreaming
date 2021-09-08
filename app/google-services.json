@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107818918066",
+    "project_id": "videostreaming-789d3",
+    "storage_bucket": "videostreaming-789d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107818918066:android:a76018559e11e15c28e9ab",
+        "android_client_info": {
+          "package_name": "com.iotric.videostreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107818918066-foti17aj98ndlq0ifj5l99lsf2ovomr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwiCyEkyv9GEYtw5v0vkI7PMwRzzQabsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107818918066-foti17aj98ndlq0ifj5l99lsf2ovomr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
